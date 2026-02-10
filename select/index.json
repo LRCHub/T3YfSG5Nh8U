@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ペーパームーン",
+  "base_artist": "Minuano",
+  "createdAt": "2026-02-10T10:04:29.162621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペーパームーン",
+      "artist": "Minuano",
+      "has_synced": true,
+      "path": "select/01_ペーパームーン_Minuano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ペーパームーン - Paper Moon",
+      "artist": "Minuano",
+      "has_synced": true,
+      "path": "select/02_ペーパームーン_-_Paper_Moon_Minuano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ペーパームーン",
+      "artist": "Mayumi Kojima",
+      "has_synced": false,
+      "path": "select/03_ペーパームーン_Mayumi_Kojima.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペーパームーン",
+      "artist": "Minuano",
+      "has_synced": false,
+      "path": "select/pl_01_ペーパームーン_Minuano.txt"
+    }
+  ]
+}
